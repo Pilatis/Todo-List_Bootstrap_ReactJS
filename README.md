@@ -1,8 +1,6 @@
-# React + Vite
+Todo List Bootstrap and ReactJS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h2 align-items="center">LINK PROJECT</h2>
 
-Currently, two official plugins are available:
+https://todo-list-bootstrap-react-bueran7u0-lucas-projects-22553991.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
